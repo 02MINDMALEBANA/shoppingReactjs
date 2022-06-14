@@ -1,0 +1,28 @@
+
+.transaction-item{
+    /* display: flex; 
+    grid-template-columns: 4fr 1fr 1fr; */
+    color: black;
+    width: 500px;
+    height: 150px;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: rgb(248, 244, 244);
+    border:  solid 1px rgb(245, 240, 240);
+      
+}
+.head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: navy;
+}
+/* .transaction-item div:nth-child(1){
+    width: 150px;
+} */
+/* 
+.transaction-item >h4{
+   
+}
+.h4{
+   padding-top: 20px;
+} */
