@@ -4,8 +4,13 @@
 }
 
 body{
-  background-color:  #7bbbf3;
+  background-color:  #81baec;
   font-family: 'lato';
+  background-image: url('./media/back.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: auto;
 }
 .App{
   display: flex;
